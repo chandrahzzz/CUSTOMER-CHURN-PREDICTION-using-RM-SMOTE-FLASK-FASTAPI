@@ -1,6 +1,17 @@
+# Python
 __pycache__/
 *.pyc
-.env
+*.pyo
+*.pyd
+
+# Virtual environment
 .venv/
 venv/
-.ipynb_checkpoints/
+
+
+
+# OS
+.DS_Store
+
+# Model files (optional – remove if you want them on GitHub)
+*.pkl
